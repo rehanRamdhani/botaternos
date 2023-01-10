@@ -1,0 +1,17 @@
+{
+  "name": "bottun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minecraft-protocol": "^1.34.0",
+    "mineflayer": "^4.3.0",
+    "mineflayer-blockfinder": "^0.0.7",
+    "mineflayer-cmd": "^1.1.3"
+  }
+}
